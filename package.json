@@ -1,0 +1,19 @@
+{
+  "name": "lesson-01",
+  "version": "1.0.0",
+  "description": "Something from school",
+  "main": "index.js",
+  "scripts": {
+   "start": "tsc && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jgann123/AngularPlay.git"
+  },
+  "author": "Jeremy Gann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jgann123/AngularPlay/issues"
+  },
+  "homepage": "https://github.com/Jgann123/AngularPlay#readme"
+}
